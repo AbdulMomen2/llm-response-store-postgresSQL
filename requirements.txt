@@ -1,0 +1,9 @@
+Flask==2.3.3
+Flask-SocketIO==5.3.6
+psycopg2-binary==2.9.9
+google-generativeai==0.7.2
+python-dotenv==1.0.0
+gunicorn==21.2.0
+eventlet==0.33.3
+
+#pip install flask flask-socketio psycopg2-binary python-dotenv google-generativeai werkzeug
